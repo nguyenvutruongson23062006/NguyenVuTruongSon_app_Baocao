@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "Bếp Việt • Khám phá công thức",
+    "slug": "bep-viet",
+    "version": "1.0.0",
+    "scheme": "bepviet",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-router",
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Cho phép Bếp Việt chụp ảnh và quay video món ăn",
+          "microphonePermission": "Cho phép Bếp Việt thu âm hướng dẫn khi quay video",
+          "recordAudioAndroid": true
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Cho phép Bếp Việt chọn ảnh và video món ăn",
+          "cameraPermission": "Cho phép Bếp Việt chụp ảnh và quay video món ăn",
+          "microphonePermission": "Cho phép Bếp Việt thu âm khi quay video"
+        }
+      ],
+      "expo-video"
+    ],
+    "android": {
+      "package": "com.son.bepviet"
+    },
+    "ios": {
+      "bundleIdentifier": "com.son.bepviet"
+    },
+    "platforms": ["android", "ios", "web"],
+    "web": {
+      "bundler": "metro",
+      "output": "single"
+    }
+  }
+}

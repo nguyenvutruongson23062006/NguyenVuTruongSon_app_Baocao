@@ -1,0 +1,145 @@
+[
+  {
+    "id": "1",
+    "name": "Gà chiên nước mắm",
+    "category": "Món Việt",
+    "minutes": 30,
+    "level": "Dễ",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1567620832903-9fc6debc209f?w=900&q=85",
+    "author": "Trần Thị Mai",
+    "status": "approved",
+    "ingredients": ["Gà", "Nước mắm", "Đường", "Tỏi"],
+    "steps": [
+      "Rửa sạch gà, để ráo nước. Ướp với nước mắm, tỏi băm và đường trong 15 phút.",
+      "Làm nóng dầu, cho gà vào chiên trên lửa vừa đến khi vàng đều hai mặt.",
+      "Phi thơm tỏi. Thêm nước mắm, đường và 3 muỗng nước, đun sôi nhẹ.",
+      "Cho gà vào đảo với sốt trong 5 phút để thấm đều gia vị.",
+      "Bày ra đĩa, thêm rau và thưởng thức cùng cơm nóng."
+    ],
+    "description": "Gà chiên nước mắm thơm ngon, đậm đà với cách làm gần gũi cho bữa cơm gia đình."
+  },
+  {
+    "id": "2",
+    "name": "Canh chua cá",
+    "category": "Món Việt",
+    "minutes": 40,
+    "level": "Vừa",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=900&q=85",
+    "author": "Nguyễn Thị Bình",
+    "status": "approved",
+    "ingredients": ["Cá", "Cà chua", "Dứa", "Me", "Rau thơm"],
+    "steps": [
+      "Sơ chế cá và rau củ.",
+      "Đun nước với me rồi cho cá vào.",
+      "Thêm cà chua, dứa và nêm gia vị.",
+      "Cho rau thơm vào, tắt bếp và dùng nóng."
+    ],
+    "description": "Canh chua cá thơm ngon, đậm đà với cách làm gần gũi cho bữa cơm gia đình."
+  },
+  {
+    "id": "3",
+    "name": "Bánh flan caramel",
+    "category": "Món Âu",
+    "minutes": 60,
+    "level": "Vừa",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=900&q=85",
+    "author": "Lê Văn Cường",
+    "status": "approved",
+    "ingredients": ["Trứng", "Sữa", "Đường"],
+    "steps": [
+      "Thắng đường làm caramel.",
+      "Khuấy đều trứng với sữa ấm.",
+      "Lọc hỗn hợp vào khuôn.",
+      "Hấp lửa nhỏ 30 phút, để nguội và làm lạnh."
+    ],
+    "description": "Bánh flan caramel thơm ngon, đậm đà với cách làm gần gũi cho bữa cơm gia đình."
+  },
+  {
+    "id": "4",
+    "name": "Phở bò Hà Nội",
+    "category": "Món Việt",
+    "minutes": 45,
+    "level": "Vừa",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1555126634-323283e090fa?w=900&q=85",
+    "author": "Trần Thị Mai",
+    "status": "approved",
+    "ingredients": ["Thịt bò", "Bánh phở", "Hành tím", "Rau thơm"],
+    "steps": [
+      "Ninh nước dùng với hành nướng.",
+      "Thái thịt bò mỏng.",
+      "Chần bánh phở, xếp vào tô.",
+      "Thêm thịt và chan nước dùng sôi."
+    ],
+    "description": "Phở bò Hà Nội thơm ngon, đậm đà với cách làm gần gũi cho bữa cơm gia đình."
+  },
+  {
+    "id": "5",
+    "name": "Gỏi cuốn rau củ",
+    "category": "Món chay",
+    "minutes": 25,
+    "level": "Dễ",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1511690743698-d9d85f2fbf38?w=900&q=85",
+    "author": "Trần Thị Mai",
+    "status": "approved",
+    "ingredients": ["Bánh tráng", "Rau sống", "Bún", "Đậu hũ"],
+    "steps": [
+      "Rửa sạch rau.",
+      "Cắt đậu hũ thành thanh.",
+      "Làm ẩm bánh tráng và xếp nhân.",
+      "Cuốn chặt tay, dùng cùng nước chấm."
+    ],
+    "description": "Gỏi cuốn tôm tươi thơm ngon, đậm đà với cách làm gần gũi cho bữa cơm gia đình."
+  },
+  {
+    "id": "6",
+    "name": "Gà kho gừng",
+    "category": "Món Việt",
+    "minutes": 40,
+    "level": "Dễ",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=900&q=85",
+    "author": "Bạn",
+    "status": "approved",
+    "ingredients": ["Gà", "Gừng", "Nước mắm"],
+    "steps": [
+      "Sơ chế gà và gừng.",
+      "Ướp thịt 15 phút.",
+      "Kho nhỏ lửa 25 phút.",
+      "Nêm lại và dùng nóng."
+    ],
+    "description": "Gà kho gừng thơm ngon, đậm đà với cách làm gần gũi cho bữa cơm gia đình."
+  },
+  {
+    "id": "7",
+    "name": "Mì Ý sốt cà chua",
+    "category": "Món Âu",
+    "minutes": 25,
+    "level": "Dễ",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=900&q=85",
+    "author": "Bạn",
+    "status": "pending",
+    "ingredients": ["Mì Ý", "Cà chua", "Tỏi"],
+    "steps": ["Luộc mì.", "Xào cà chua và tỏi.", "Trộn mì cùng sốt."],
+    "description": "Mì Ý sốt cà chua thơm ngon, đậm đà với cách làm gần gũi cho bữa cơm gia đình."
+  },
+  {
+    "id": "8",
+    "name": "Cơm gà xối mỡ",
+    "category": "Món Á",
+    "minutes": 50,
+    "level": "Khó",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=900&q=85",
+    "author": "Hoàng Minh",
+    "status": "pending",
+    "ingredients": ["Gà", "Gạo", "Dưa leo"],
+    "steps": ["Nấu cơm.", "Luộc gà.", "Chiên giòn và trình bày."],
+    "description": "Cơm gà xối mỡ thơm ngon, đậm đà với cách làm gần gũi cho bữa cơm gia đình."
+  }
+]
